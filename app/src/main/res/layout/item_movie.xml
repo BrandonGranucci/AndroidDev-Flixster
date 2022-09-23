@@ -23,6 +23,7 @@
         android:ellipsize="end"
         android:maxLines="2"
         android:text="The Boss Baby: Family Business"
+        android:textColor="#FFFFFF"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/ivPoster"
@@ -38,6 +39,7 @@
         android:ellipsize="end"
         android:maxLines="5"
         android:text="The Templeton brothers - Time and his Boss.."
+        android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/ivPoster"
         app:layout_constraintTop_toBottomOf="@+id/tvTitle" />

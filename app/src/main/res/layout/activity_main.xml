@@ -4,6 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    app:titleTextColor="#222222"
+    app:subtitleTextColor="#FFFFFF"
+    android:background="#222222"
     tools:context=".MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
