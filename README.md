@@ -58,6 +58,7 @@ Describe any challenges encountered while building the app.
 ### Notes
 Describe any challenges encountered while building the app.
 * Having a bug free connection to the database.
+* Discovering how to change the color of the action bar.
 ### Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
